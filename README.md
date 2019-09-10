@@ -5,7 +5,7 @@ Contains a script to alert the user when a course at Brown University has availa
 - [Selenium](https://www.seleniumhq.org/) to automate the web browsing.
     - Recommended to install via [pip](https://pypi.org/project/pip/) with command `pip3 install --user selenium`.
 - [Chromedriver](https://chromedriver.chromium.org/) for checking CAB.
-- [Sox](http://sox.sourceforge.net/) for ourput audio.
+- [Sox](http://sox.sourceforge.net/) for output audio.
     - Pre-installed on Linux
 
 ## Configuration
