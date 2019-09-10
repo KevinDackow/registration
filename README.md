@@ -9,7 +9,7 @@ Contains a script to alert the user when a course at Brown University has availa
     - Pre-installed on Linux
 
 ## Configuration
-You must first change the `COURSE` constant in `registration.py` to reflect the course you want to check. Next you must change the `PATH_TO_CHROMEDRIVER` path to point to the Chromedriver executable.
+You must first change the `COURSE` constant in `registration.py` to reflect the course you want to check. Next you must change the `CHROMEDRIVER_PATH` path to point to the Chromedriver executable.
 
 ## Execution
 ```
